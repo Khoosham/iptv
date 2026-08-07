@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc1.png", MBC 1
+https://vod.mbcplay.tv/hls/MBC1/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc2.png", MBC 2
+https://vod.mbcplay.tv/hls/MBC2/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/mbc/main/logos/tv/mbc3.png", MBC 3
+https://vod.mbcplay.tv/hls/MBC3/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc4.png", MBC 4
+https://vod.mbcplay.tv/hls/MBC4/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc5.png", MBC 5
+https://vod.mbcplay.tv/hls/MBC5/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc11.png", MBC 11
+https://vod.mbcplay.tv/hls/SPORTS11/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc16.png", MBC 16
+https://vod.mbcplay.tv/hls/MBC16/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbc17.png", MBC 17 (TVI5)
+https://vod.mbcplay.tv/hls/TVI5/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/mbcsat.png", MBC SAT
+https://vod.mbcplay.tv/hls/MBCSAT/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/tv/parliamenttv.png", Parliament TV
+https://vod.mbcplay.tv/hls/PTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/nrjmaurice.png", NRJ Maurice
+https://radio.mbconline.xyz/hls/musicfm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioone.png", Radio One
+https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioone-hits.png", Radio One (100% Hits)
+https://centova57.instainternet.com/proxy/webhits?mp=/stream
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioone-gold.png", Radio One (Web Gold)
+https://centova57.instainternet.com/proxy/webgold?mp=/stream
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioone-tropical.png", Radio One (Web Tropical)
+https://centova57.instainternet.com/proxy/webtropical?mp=/stream
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioone-bollywood.png", Radio One (Bollywood)
+https://centova57.instainternet.com/proxy/webbollywood?mp=/stream
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioplus.png", Radio Plus
+https://stream.radio.co/s8cc7a5da4/listen
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioplus-fever.png", Radio Plus (Fever)
+https://streamer.radio.co/s3fe39a4a4/listen
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioplus-hits.png", Radio Plus (Hits)
+https://s3.radio.co/s1769ca1ac/listen
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioplus-indiz.png", Radio Plus (Indiz)
+https://streamer.radio.co/sed5c5a375/listen
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/topfm.png", TOP FM
+https://livetv.topfm.mu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/am1-radiomaurice.png", AM1 (Radio Maurice)
+https://radio.mbconline.xyz/hls/radiomaurice.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/am2-radiomauritius.png", AM2 (Radio Mauritius)
+https://radio.mbconline.xyz/hls/radiomauritus.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/rm1-koolfm.png", RM1 (Kool FM)
+https://radio.mbconline.xyz/hls/koolfm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/rm2-bestfm.png", RM2 (Best FM)
+https://radio.mbconline.xyz/hls/bestfm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/rm3-taalfm.png", RM3 (Taal FM)
+https://radio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/rodriguesfm.png", Radio Rodrigues
+https://radio.mbconline.xyz/hls/rodrigusfm.m3u8
