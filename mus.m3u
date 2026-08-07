@@ -39,8 +39,10 @@ https://streamer.radio.co/s3fe39a4a4/listen
 https://s3.radio.co/s1769ca1ac/listen
 #EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/radioplus-indiz.png", Radio Plus (Indiz)
 https://streamer.radio.co/sed5c5a375/listen
-#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/topfm.png", TOP FM
-https://livetv.topfm.mu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/topfm.png", TOP FM MAURITIUS
+https://s3.voscast.com:10153/stream
+#EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/topfm.png", TOP FM MAURITIUS (TV LIVE)
+https://livetv.topfm.mu/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/am1-radiomaurice.png", AM1 (Radio Maurice)
 https://radio.mbconline.xyz/hls/radiomaurice.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/khoosham/mbc/raw/main/logos/radio/am2-radiomauritius.png", AM2 (Radio Mauritius)
