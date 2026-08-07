@@ -19,16 +19,6 @@ https://vod.mbcplay.tv/hls/TVI5/master.m3u8
 https://vod.mbcplay.tv/hls/MBCSAT/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/parliamenttv.png", Parliament TV
 https://vod.mbcplay.tv/hls/PTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/antennereunion.png", Antenne Reunion HD
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/reunion1er.png", Reunion 1er SD
-https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjA3MDB+YWNsPSUyZip+aG1hYz0xNjRlZjAxMzUzNDM1ODg2OWQ5YjlhMWVlMWMyMzQ2MzVmNTQwZjFjZWRiMmY3NmIyMTQ3OWExNDQxY2JkMzQ2/simulcast/1er_Reunion/hls_monde_1er_Reu/1er_Reunion-avc1_1400000=5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/reunion1er.png", Reunion 1er HD
-https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjA3MDB+YWNsPSUyZip+aG1hYz0xNjRlZjAxMzUzNDM1ODg2OWQ5YjlhMWVlMWMyMzQ2MzVmNTQwZjFjZWRiMmY3NmIyMTQ3OWExNDQxY2JkMzQ2/simulcast/1er_Reunion/hls_monde_1er_Reu/1er_Reunion-avc1_2500000=4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/reunion1er.png", Reunion 1er FHD
-https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjA3MDB+YWNsPSUyZip+aG1hYz0xNjRlZjAxMzUzNDM1ODg2OWQ5YjlhMWVlMWMyMzQ2MzVmNTQwZjFjZWRiMmY3NmIyMTQ3OWExNDQxY2JkMzQ2/simulcast/1er_Reunion/hls_monde_1er_Reu/1er_Reunion-avc1_5000000=3.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/nrjmaurice.png", NRJ Maurice
 https://radio.mbconline.xyz/hls/musicfm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/radioone.png", Radio One
@@ -65,3 +55,23 @@ https://radio.mbconline.xyz/hls/bestfm.m3u8
 https://radio.mbconline.xyz/hls/tallfm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/rodriguesfm.png", Radio Rodrigues
 https://radio.mbconline.xyz/hls/rodrigusfm.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/antennereunion.png", Antenne Reunion HD
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/franceinfo.png", France Info SD
+https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjI5MjN+YWNsPSUyZip+aG1hYz1mNzcwZmRjNDM5YTM2NjM4NGI4N2Y1MTY0OWZjOWJlZDU5OGFjNjI5OTllMTU3ODE4OWJkNjYxYTg1YmFmOTZl/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_1400000=4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/franceinfo.png", France Info HD
+https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjI5MjN+YWNsPSUyZip+aG1hYz1mNzcwZmRjNDM5YTM2NjM4NGI4N2Y1MTY0OWZjOWJlZDU5OGFjNjI5OTllMTU3ODE4OWJkNjYxYTg1YmFmOTZl/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_2500000=3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/franceinfo.png", France Info FHD
+https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjI5MjN+YWNsPSUyZip+aG1hYz1mNzcwZmRjNDM5YTM2NjM4NGI4N2Y1MTY0OWZjOWJlZDU5OGFjNjI5OTllMTU3ODE4OWJkNjYxYTg1YmFmOTZl/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/reunion1er.png", Reunion 1ERE SD
+https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjA3MDB+YWNsPSUyZip+aG1hYz0xNjRlZjAxMzUzNDM1ODg2OWQ5YjlhMWVlMWMyMzQ2MzVmNTQwZjFjZWRiMmY3NmIyMTQ3OWExNDQxY2JkMzQ2/simulcast/1er_Reunion/hls_monde_1er_Reu/1er_Reunion-avc1_1400000=5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/reunion1er.png", Reunion 1ERE HD
+https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjA3MDB+YWNsPSUyZip+aG1hYz0xNjRlZjAxMzUzNDM1ODg2OWQ5YjlhMWVlMWMyMzQ2MzVmNTQwZjFjZWRiMmY3NmIyMTQ3OWExNDQxY2JkMzQ2/simulcast/1er_Reunion/hls_monde_1er_Reu/1er_Reunion-avc1_2500000=4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/reunion1er.png", Reunion 1ERE FHD
+https://simulcast-p.ftven.fr/ZXhwPTE3ODYxMjA3MDB+YWNsPSUyZip+aG1hYz0xNjRlZjAxMzUzNDM1ODg2OWQ5YjlhMWVlMWMyMzQ2MzVmNTQwZjFjZWRiMmY3NmIyMTQ3OWExNDQxY2JkMzQ2/simulcast/1er_Reunion/hls_monde_1er_Reu/1er_Reunion-avc1_5000000=3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/reunion1er.png", Reunion 1ERE Radio
+https://reunion.ice.infomaniak.ch/reunion-128.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/franceinfo.png", France Info (Radio France)
+https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8
