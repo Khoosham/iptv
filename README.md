@@ -1,11 +1,12 @@
-# Mauritius IPTV Channels
+# Mauritius & Réunion IPTV Channels
 
-A collection of publicly available IPTV streams from Mauritius, including TV channels and radio stations.
+A collection of publicly available IPTV streams from Mauritius and Réunion, including TV channels and radio stations.
 
 ## Playlist
 
 - **File:** `mus.m3u`
 - **Format:** M3U
+- **Regions:** Mauritius, Réunion
 
 ## Usage
 
@@ -17,7 +18,7 @@ https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/mus.m3u
 
 Compatible with any M3U-supported player (VLC, IPTV Smarters, TiviMate, etc.).
 
-**Note:** Some channels are geographically restricted and available only in Mauritius.
+**Note:** Some channels in Mauritius may be subject to geographic restrictions and may not be accessible in all locations.
 
 ## Logo Assets
 
