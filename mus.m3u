@@ -15,6 +15,8 @@ https://vod.mbcplay.tv/hls/SPORTS11/master.m3u8
 https://vod.mbcplay.tv/hls/MBC16/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/mbc17.png", MBC 17 (TVI5)
 https://vod.mbcplay.tv/hls/TVI5/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/tvi5.png", TVI5 FHD
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/mbcsat.png", MBC SAT
 https://vod.mbcplay.tv/hls/MBCSAT/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/nw1.jpg", NW Sport 1
