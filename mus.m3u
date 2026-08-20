@@ -23,6 +23,8 @@ https://vod.mbcplay.tv/hls/MBCSAT/master.m3u8
 https://vod.mbcplay.tv/hls/NW1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/tv/parliamenttv.png", Parliament TV
 https://vod.mbcplay.tv/hls/PTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/fimp.png", MAURITIUS LIVE AIR TRAFFIC (FIMP)
+https://s1-bos.liveatc.net/fimp2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/nrjmaurice.png", NRJ Maurice
 https://radio.mbconline.xyz/hls/musicfm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khoosham/iptv/refs/heads/main/logos/radio/radioone.png", Radio One
